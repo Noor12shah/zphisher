@@ -19,11 +19,11 @@
 
 ## Installation :
 
-* `apt update`
-* `apt install git curl php openssh -y`
-* `git clone https://github.com/Noor12shah/zphisher
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
+* apt update
+* apt install git curl php openssh -y
+* git clone https://github.com/Noor12shah/zphisher
+* cd zphisher
+#### > Run : `bash zphisher.sh
 
 ## Single Command :
 ```
